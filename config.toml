@@ -1,4 +1,4 @@
-baseURL = "https://witty-rock-00fa6820f.azurestaticapps.net/"
+baseURL = "https://hugo.kirchweb.com/"
 languageCode = "en-us"
 title = "Kirchweb Test"
 theme = "ananke"
